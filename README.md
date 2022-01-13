@@ -4,4 +4,4 @@
 • 💠 I'm 14 years Old
 
 
-• 💻 I coding with Java & Intellij
+• 💻 I coding with Java & Intellij IDEA
