@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm ByteSyntaxx</h1>
-- 🔭 I’m currently working on **Learning Stuff...**
 
+- 🔭 I’m currently working on **Learning Stuff...**
+  
 - 🌱 I’m currently learning **Java & Python**
 
 <h3 align="left">Languages and Tools:</h3>
